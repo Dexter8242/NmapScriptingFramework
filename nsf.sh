@@ -35,7 +35,7 @@ if [[ $1 == "print" ]]; then
 		if [[ "${MATCHES}" -gt 1 ]]; then
     		echo $RESULT | tr " " "\n"
 		else
-    		echo "No scripts that are similar to \"$1\""
+    		echo "No scripts that are similar to \"$2\""
 		fi
 	else
 		ls /usr/share/nmap/scripts

@@ -7,7 +7,7 @@ To install the script:
 1. `cd /tmp`
 2. `git clone https://github.com/Dexter8242/NmapScriptingFramework.git`
 3. `cd NmapScriptingFramework`
-4. `sha256sum nsf`
+4. `sha256sum nsf.sh`
 
 Checksum should match `e15a221661122e3a89bcf4eb3e217b520354efd30b25c8467bc9fdbcbf1541b8`
 

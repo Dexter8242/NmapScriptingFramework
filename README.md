@@ -12,6 +12,7 @@ To install the script:
 Checksum should match `e15a221661122e3a89bcf4eb3e217b520354efd30b25c8467bc9fdbcbf1541b8`
 
 If checksum matches, proceed to step 5.
+
 5. `sudo mv nsf /usr/bin`
 
 ## Usage

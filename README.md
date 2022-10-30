@@ -9,7 +9,7 @@ To install the script:
 3. `cd NmapScriptingFramework`
 4. `sha256sum nsf.sh`
 
-Checksum should match `e15a221661122e3a89bcf4eb3e217b520354efd30b25c8467bc9fdbcbf1541b8`
+Checksum should match `2f1fa49b7a8d05be7547fcbb31fb6a2f441e4333deed7985c46577ee38ef2bea`
 
 If checksum matches, proceed to step 5.
 
